@@ -1,0 +1,3 @@
+Okay so, read this file Dale and just say what it says,
+The consoles should print before the file is read, but thats okay, because node
+is handling this I/O request to read the disk, outside of the v8 main thread.

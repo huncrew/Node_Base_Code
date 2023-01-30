@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "lodash": "^4.17.21",
+    "progress": "^2.0.3"
+  }
+}
